@@ -24,8 +24,8 @@ Features:
 - [x] list
 - [x] find
 - [x] load and update file
-- [ ] Graphical User Interface (GUI)
-- [x] Be cool af
+- [x] Graphical User Interface (GUI)
+- [x] Be cool
 
 If you Java programmer, you can use it to practice Java too. Here's the 'main' method :electron: :
 ```java
